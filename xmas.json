@@ -3,6 +3,7 @@
 		"[SSR] Stardust Holly Rod (Christmas Arulumaya)",
 		"[SSR] Snowy Mobius Strip (Christmas Clarisse)",
 		"[SSR] Rosen Maiden (Christmas Rosetta)",
+		"[SSR] Izayoi (Water Yuel)",
 		"[SSR] Shadow Viperlance (Azazel)",
 		"[SSR] Gothic Cutlery (Dorothy and Claudia)",
 		"[SSR] Daemon's Spine (Anne)",
@@ -137,12 +138,14 @@
 		"[SSR] Satan",
 		"[SSR] Typhon",
 		"[SSR] Ankusha",
-		"[SSR] Zaoshen"
+		"[SSR] Zaoshen",
+		"[SSR] Snow White"
 	],
 	"srChar": [
 		"[SR] Holy Harp (Christmas Rackam)",
 		"[SR] White Talons (Christmas Sen)",
 		"[SR] Holy Glove (Christmas Ladiva)",
+		"[SR] Silver Fan (Karteira)",
 		"[SR] Vampire's Nail (Vania)",
 		"[SR] Slingshot (Sarya)",
 		"[SR] Sword of Sorcery (Owen)",
