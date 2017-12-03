@@ -1,17 +1,12 @@
 {
 	"ssr": [
-		"[SSR] Gallinarius (Mahira)",
-		"[SSR] Blutgang (Black Knight)",
-		"[SSR] Blue Sphere (Drang)",
 		"[SSR] AK-4A (Eugen)",
 		"[SSR] Gambanteinn (Io)",
 		"[SSR] Murgleis (Katalina)",
 		"[SSR] Reunion (Lecia)",
-		"[SSR] Eden (Lucio)",
-		"[SSR] Parazonium (Orchid)",
 		"[SSR] Benedia (Rackam)",
 		"[SSR] Love Eternal (Rosetta)",
-		"[SSR] Ixaba (Sturm)",
+		"[SSR] Heiliges Schwert (Wind Lancelot)",
 		"[SSR] Izayoi (Water Yuel)",
 		"[SSR] Shadow Viperlance (Azazel)",
 		"[SSR] Gothic Cutlery (Dorothy and Claudia)",
@@ -151,6 +146,7 @@
 		"[SSR] Snow White"
 	],
 	"srChar": [
+		"[SR] Staff of the Star Seeker (Sophia)",
 		"[SR] Unsigned Blade (Mirin)",
 		"[SR] Silver Fan (Karteira)",
 		"[SR] Vampire's Nail (Vania)",
