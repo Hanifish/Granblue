@@ -1,9 +1,6 @@
 {
 	"ssr": [
-		"[SSR] Jolly Starcracker (Christmas Mary)",
-		"[SSR] Stardust Holly Rod (Christmas Arulumaya)",
-		"[SSR] Snowy Mobius Strip (Christmas Clarisse)",
-		"[SSR] Rosen Maiden (Christmas Rosetta)",
+		"[SSR] Medusiana Staff (Valentine's Medusa)",
 		"[SSR] Tiamat Bolt Prime (Tiamat)",
 		"[SSR] Ruler of Fate (Zooey)",
 		"[SSR] Tanzanite Blade (Therese)",
@@ -151,16 +148,14 @@
 		"[SSR] Tsukuyomi"
 	],
 	"srChar": [
-		"[SR] Silver Shotel (Randall)",
-		"[SR] Winter Wonderbow (Christmas Feena)",
-		"[SR] Holy Harp (Christmas Rackam)",
-		"[SR] White Talons (Christmas Sen)",
-		"[SR] Holy Glove (Christmas Ladiva)",
+		"[SR] Confection Cutter (Valentine's Narmaya)",
+		"[SR] Scarlet Oath (Valentine's Teena)",
 		"[SR] Tughril (Nezahualphilli)",
+		"[SR] Silver Shotel (Randall)",
 		"[SR] Red-Hot Noodles (Ippatsu)",
-		"[SR] Signal Flare (Karva)",
 		"[SR] Staff of the Star Seeker (Sophia)",
 		"[SR] Unsigned Blade (Mirin)",
+		"[SR] Signal Flare (Karva)",
 		"[SR] Silver Fan (Karteira)",
 		"[SR] Vampire's Nail (Vania)",
 		"[SR] Slingshot (Sarya)",
@@ -304,7 +299,6 @@
 		"[SR] Onyx Carbuncle"
 	],
 	"rChar": [
-		"[R] Tree Wand (Christmas Walder)",
 		"[R] Fire Sword (Farrah)",
 		"[R] Vintage Flat Iron (Rosine)",
 		"[R] Shrimp Lure (Yodarha)",
