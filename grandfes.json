@@ -1,5 +1,7 @@
 {
 	"ssr": [
+		"[SSR] Ichigo Hitofuri (Cain)",
+		"[SSR] Ichigo Hitofuri (Cain)",
 		"[SSR] Mirror-Blade Shard (Alexiel)",
 		"[SSR] Mirror-Blade Shard (Alexiel)",
 		"[SSR] Fallen Sword (Olivia)",
@@ -18,6 +20,7 @@
 		"[SSR] Cute Ribbon (SS Zooey)",
 		"[SSR] Certificus (Grand Vira)",
 		"[SSR] Certificus (Grand Vira)",
+		"[SSR] Ruling Pen (Lunalu)",
 		"[SSR] Wrymtiger Claw (Soriz)",
 		"[SSR] White Hawk (Cucouroux)",
 		"[SSR] Gigante Slicer (Nicholas)",
@@ -169,7 +172,8 @@
 		"[SSR] Tsukuyomi",
 		"[SSR] Halluel and Malluel",
 		"[SSR] Freyr",
-		"[SSR] Uriel"
+		"[SSR] Uriel",
+		"[SSR] Gorilla"
 	],
 	"srChar": [
 		"[SR] Serpentine Longspear (Leona)",
@@ -324,6 +328,7 @@
 		"[SR] Onyx Carbuncle"
 	],
 	"rChar": [
+		"[R] Spin Blade (Spinnah)",
 		"[R] Fire Sword (Farrah)",
 		"[R] Vintage Flat Iron (Rosine)",
 		"[R] Shrimp Lure (Yodarha)",

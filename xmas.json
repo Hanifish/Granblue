@@ -4,6 +4,7 @@
 		"[SSR] Stardust Holly Rod (Christmas Arulumaya)",
 		"[SSR] Snowy Mobius Strip (Christmas Clarisse)",
 		"[SSR] Rosen Maiden (Christmas Rosetta)",
+		"[SSR] Ruling Pen (Lunalu)",
 		"[SSR] Wrymtiger Claw (Soriz)",
 		"[SSR] White Hawk (Cucouroux)",
 		"[SSR] Gigante Slicer (Nicholas)",
@@ -155,7 +156,8 @@
 		"[SSR] Tsukuyomi",
 		"[SSR] Halluel and Malluel",
 		"[SSR] Freyr",
-		"[SSR] Uriel"
+		"[SSR] Uriel",
+		"[SSR] Gorilla"
 	],
 	"srChar": [
 		"[SR] Serpentine Longspear (Leona)",
@@ -315,6 +317,7 @@
 	],
 	"rChar": [
 		"[R] Tree Wand (Christmas Walder)",
+		"[R] Spin Blade (Spinnah)",
 		"[R] Fire Sword (Farrah)",
 		"[R] Vintage Flat Iron (Rosine)",
 		"[R] Shrimp Lure (Yodarha)",

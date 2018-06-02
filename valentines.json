@@ -1,6 +1,7 @@
 {
 	"ssr": [
 		"[SSR] Medusiana Staff (Valentine's Medusa)",
+		"[SSR] Ruling Pen (Lunalu)",
 		"[SSR] Wrymtiger Claw (Soriz)",
 		"[SSR] White Hawk (Cucouroux)",
 		"[SSR] Gigante Slicer (Nicholas)",
@@ -152,7 +153,8 @@
 		"[SSR] Tsukuyomi",
 		"[SSR] Halluel and Malluel",
 		"[SSR] Freyr",
-		"[SSR] Uriel"
+		"[SSR] Uriel",
+		"[SSR] Gorilla"
 	],
 	"srChar": [
 		"[SR] Confection Cutter (Valentine's Narmaya)",
@@ -309,6 +311,7 @@
 		"[SR] Onyx Carbuncle"
 	],
 	"rChar": [
+		"[R] Spin Blade (Spinnah)",
 		"[R] Fire Sword (Farrah)",
 		"[R] Vintage Flat Iron (Rosine)",
 		"[R] Shrimp Lure (Yodarha)",
